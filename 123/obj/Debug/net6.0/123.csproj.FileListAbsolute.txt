@@ -1,0 +1,15 @@
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\123.csproj.AssemblyReference.cache
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\123.AssemblyInfoInputs.cache
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\123.AssemblyInfo.cs
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\123.csproj.CoreCompileInputs.cache
+C:\Users\wegas\Desktop\учеба\c#\123\bin\Debug\net6.0\123.exe
+C:\Users\wegas\Desktop\учеба\c#\123\bin\Debug\net6.0\123.deps.json
+C:\Users\wegas\Desktop\учеба\c#\123\bin\Debug\net6.0\123.runtimeconfig.json
+C:\Users\wegas\Desktop\учеба\c#\123\bin\Debug\net6.0\123.dll
+C:\Users\wegas\Desktop\учеба\c#\123\bin\Debug\net6.0\123.pdb
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\123.dll
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\refint\123.dll
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\123.pdb
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\123.genruntimeconfig.cache
+C:\Users\wegas\Desktop\учеба\c#\123\obj\Debug\net6.0\ref\123.dll
